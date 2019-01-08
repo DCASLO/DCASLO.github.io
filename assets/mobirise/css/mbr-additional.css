@@ -3439,6 +3439,18 @@ body {
     width: 100% !important;
   }
 }
+.cid-reBAOCWRdk {
+  background: #ffffff;
+}
+.cid-reBAOCWRdk .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-reBAOCWRdk .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rdAVXrr63b {
   background: #ffffff;
 }
